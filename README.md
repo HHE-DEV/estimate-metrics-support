@@ -32,3 +32,6 @@ be filtered inside your house call pro reporting dashboard as follows.
 - [ ] window
 - [ ] attachments
 - [ ] options
+
+After the table columns have been filtered, then you can export the data for the date range you'd like to gain metrics on
+and export as `csv` file that can be uploaded into the application.
